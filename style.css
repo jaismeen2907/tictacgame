@@ -5,7 +5,7 @@ body {
     align-items: center;
     min-height: 100vh;
     margin: 0;
-    background-color: #f8f9fa; /* Light background for the entire page */
+    background-color: black; /* Light background for the entire page */
   }
   
   .col-xs-4 {
